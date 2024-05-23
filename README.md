@@ -1,7 +1,7 @@
 # GOOGLE_STOCK_PRICE_PREDICT_USING_LSTM
 Utilizing LSTM algorithm, I developed a machine learning model for Google stock price forecasting. Proficient in Python and data analysis, I provided precise insights for strategic financial decisions, showcasing a commitment to excellence and innovation in financial forecasting.
 
-# Google Stock Prediction Project 📈
+# GGOOGLE_STOCK_PRICE_PREDICT_USING_LSTM📈
 
 ## Introduction
 This project aims to predict Google stock prices using machine learning techniques, particularly LSTM (Long Short-Term Memory) algorithm. LSTM is a type of recurrent neural network (RNN) capable of learning long-term dependencies, making it well-suited for time series prediction tasks like stock price forecasting.
